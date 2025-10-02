@@ -1,0 +1,10 @@
+Flask
+gunicorn
+google-cloud-dialogflow
+psycopg2-binary
+twilio
+requests
+
+
+
+@db.lzqmvfueyiugigqrwhhx.supabase.co:5432/postgres
